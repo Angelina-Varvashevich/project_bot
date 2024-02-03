@@ -1,0 +1,5 @@
+.env
+config_data/__pycache__/
+handlers/__pycache__/
+lexicons/__pycache__/
+users/__pycache__/
